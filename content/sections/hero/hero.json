@@ -1,0 +1,18 @@
+{
+  "intro": "Hej i'm",
+  "heroPhoto": {
+    "src": "../../images/lego-dummy.png",
+    "alt": "My Photo"
+  },
+  
+  "title": "Grzegorz Duszka",
+  "subtitle": {
+    "prefix": "Website created for the needs of engineering work",
+    "suffix": "."
+  },
+  "description": "",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": false
+  }
+}
